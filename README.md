@@ -1,4 +1,4 @@
-data-science
-============
+README.md
 
-Examples and code for the John Hopkins Data Science Course.
+run_analysis,R contains the loading, parsing, and cleaning of data.
+
