@@ -14,9 +14,9 @@ testXFile = 'test/X_test.txt'
 testYFile = 'test/Y_test.txt'
 testSubjectFile = 'test/subject_test.txt'
 
-testXFile = 'train/X_train.txt'
-testYFile = 'train/Y_train.txt'
-testSubjectFile = 'train/subject_train.txt'
+trainXFile = 'train/X_train.txt'
+trainYFile = 'train/Y_train.txt'
+trainSubjectFile = 'train/subject_train.txt'
 
 # Read data and store into data.frames
 columnNames = read.table(featuresFile, stringsAsFactors = FALSE)
